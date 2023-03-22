@@ -1,1 +1,1 @@
-# QSA-SHA-for-Modified-Gravity
+# Quasi-Static and Sub-Horizon Approximations in Modified Gravity
