@@ -10,4 +10,4 @@ Files used to do all the computations in . You will find the following files:
 
 4) Hu_Sawicky.nb: a Mathematica file where all the computations related to the Hu-Sawicky model are performed. In order to do the plots, you will need the data-files with the namefile "HS_*.txt".
 
-The data-files "base_ 2018_plikHM_TTTEEE_lowl_lowE_lensing00_pk.dat" and "base_2018_plikHM_TTTEEE_lowl_lowE_lensing00_cl.dat" contain data for the matter power spectrum and CMB angular power spectrum in the &Lambda concordance model.
+The data-files "base_ 2018_plikHM_TTTEEE_lowl_lowE_lensing00_pk.dat" and "base_2018_plikHM_TTTEEE_lowl_lowE_lensing00_cl.dat" contain data for the matter power spectrum and CMB angular power spectrum in the ΛCDM concordance model.
