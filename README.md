@@ -1,6 +1,6 @@
 # Quasi-Static and Sub-Horizon Approximations in Modified Gravity
 
-Files used to do all the computations in 2303.14251. You will find the following files:
+Files used to do all the computations in [2303.14251](https://arxiv.org/abs/2303.14251). You will find the following files:
 
 1) Horndeski_Theory.nb: a Mathematica file containing the linear cosmological perturbations for the Horndeski model. You can find the perturbation equations for $f(R)$ theories in the section "Examples". You will need the xPand package in the xAct suite.
 
